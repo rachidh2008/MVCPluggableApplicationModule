@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="362c8c1f-5d94-4952-8fc6-b3736d5496f6" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="36dccc66-bbc6-4255-8896-be096280a142">
+      <childLayers>
+        <layer Id="e7550d2a-3f92-46db-a0a4-d6cd4cd14b13" name="Core Web MVC Application" />
+        <layer Id="5c7f350e-0c0a-4b1a-abb3-9a196e28273e" name="UI Module (via Area)">
+          <childLayers>
+            <layer Id="e9ce9459-e39c-43c7-81d2-424b79c11bba" name="Model2" />
+            <layer Id="bc46e43e-6b14-45bd-9c8d-649a1ccfdf29" name="View2" />
+            <layer Id="7aafe2c5-fbd6-4b41-bfa3-4e60ce108dba" name="Controller2" />
+          </childLayers>
+        </layer>
+        <layer Id="7b3a7a25-1b87-46d6-9ae3-89372f4543b3" name="Model" />
+        <layer Id="719c97ee-d0ab-42dd-a755-52c667b4a0f3" name="View" />
+        <layer Id="21b15e9b-5bd8-43d9-b378-fe551d816449" name="Controller" />
+      </childLayers>
+    </layer>
+  </layers>
+</layerModel>
